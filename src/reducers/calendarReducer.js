@@ -5,6 +5,7 @@ import { types } from '../types/types';
 //     start: moment().toDate(),
 //     end: moment().add( 2, 'hours' ).toDate(),
 //     notes: 'Comprar el pastel',
+//     notes: 'Comprar el pastel',
 //     user: {
 //         _id: '123',
 //         name: 'Fernando'
