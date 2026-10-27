@@ -17,7 +17,8 @@
     "react-scripts": "4.0.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "sweetalert2": "^11.1.9"
+    "sweetalert2": "^11.1.9",
+    "cra-template-pwa": "2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
